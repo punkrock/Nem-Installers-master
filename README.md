@@ -35,14 +35,13 @@ For help installing Oracle Java 8 [please see here](#how-can-i-install-oracle-ja
 Install git if it's not installed already
 ```
 apt-get install git
-
 ```
 
 Fetch the latest version of the scripts from the github repository and uncompress
 ```
 git clone https://github.com/Stoner19/Nem-Installers-master.git
-
 ```
+
 Make the scripts executable
 ```
 chmod +x ./install_nem.sh
