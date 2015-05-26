@@ -34,8 +34,8 @@ For help installing Oracle Java 8 [please see here](#how-can-i-install-oracle-ja
 
 Fetch the latest version of the scripts from the github repository and uncompress
 ```
-wget https://github.com/jadedjack/Nem-Installers/archive/master.zip
-unzip master.zip
+git clone https://github.com/Stoner19/Nem-Installers-master.git
+
 ```
 Make the scripts executable
 ```
